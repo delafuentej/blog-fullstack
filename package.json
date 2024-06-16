@@ -14,9 +14,9 @@
   "type": "module",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "faker": "^5.5.3",
-    "mongoose": "^5.13.9",
+    "mongoose": "^5.13.20",
     "morgan": "^1.10.0"
   }
 }
